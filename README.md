@@ -12,8 +12,10 @@ This is a very simple example of a spatial REST Service with a Vue Client. It us
    * Vuetify (Material Design), I used the "baseline" layout from https://vuetifyjs.com/en/getting-started/pre-made-layouts 
    * Leaflet 
   
+(the example at https://github.com/mstahv/spring-boot-spatial-example helped me a lot to understand how hibernate-spatial works) 
+
 ![GitHub Logo](/app.jpg)
-Format: ![Alt Text](url)
+
 
 ## Running it
 
