@@ -1,5 +1,19 @@
 # spatial-spring-leaflet-vue-example
 
+This is a very simple example of a spatial REST Service with a Vue Client. It uses:
+* For the Backend
+   * a Spring-Boot Service
+   * The Hibernate-Spatial Extension
+   * JTS (defines the Geometries)
+   * geodb (a spatial extention of the H2 database)
+   * the package jackson-datatype-jts for serializing the geometries
+* Frontend
+   * Javascript, Vue
+   * Vuetify (Material Design), I used the "baseline" layout from https://vuetifyjs.com/en/getting-started/pre-made-layouts 
+   * Leaflet 
+  
+
+
 ## Running it
 
 Maven and npm need to be installed
